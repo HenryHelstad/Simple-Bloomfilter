@@ -1,5 +1,4 @@
-After reading my old bloomfilter implementation I reallized how much better I have gotten as
-a programmer. I decided to re-implement the project displaying my much faster and better programming.
+After reading my old bloomfilter implementation I realized how much better I have gotten as a programmer. I decided to re-implement the project displaying my much faster and better programming.
 The new files are createFilter.py and sifter.py
 Enjoy :)
 
