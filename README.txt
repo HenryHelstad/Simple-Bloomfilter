@@ -1,3 +1,23 @@
+After reading my old bloomfilter implementation I reallized how much better I have gotten as
+a programmer. I decided to re-implement the project displaying my much faster and better programming.
+The new files are createFilter.py and sifter.py
+Enjoy :)
+
+
+NEW------------------------------------------------------------------------------------- 
+
+PYTHONHASHSEED=1
+the enviroment variable needs to be set so that the built hash function is not randomized
+
+running createFilter.py:
+pythonhashseed=1 python createfilter.py dictionary  filter_name desired_error
+
+running sifter.py:
+pythonhashseed=1 python sifter.py bloomfilter_size_numHashes.bin size_of_filter numHashes checked_data
+
+
+
+OLD-----------------------------------------------------------------------------------
 
 
 To run the program:
